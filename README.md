@@ -2,7 +2,7 @@
 ## Server Side
 
 ### About
-**Real Chat** is a web chat application that can help colleagues to discuss on work related issues.It's built as a Distributed Coumputing course project mini project.
+**Real Chat** is a web chat application that can help colleagues to discuss on work related issues.It's built as a Distributed Computing course mini project.
 
 ### Technologies
 - [Express](https://expressjs.com/)
